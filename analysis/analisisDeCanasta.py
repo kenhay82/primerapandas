@@ -14,4 +14,5 @@ def analizarCanastaBasica():
     #print(tabla.head(20)) #primeros N registros
     #print(tabla.tail(20)) #últimos N registros
     #print(tabla.describe) #estadistica descriptiva básica
+
     
