@@ -8,7 +8,7 @@ def analizarCanastaBasica():
     #Crear una tabla tabulada que se llama DATAFRAME
     #Columnas= Atribrutos...    Filas= Valores...
     tabla =  pd.read_csv('./data/bdcanasta.csv')
-    #print(tabla)
+    print(tabla)
 
     #3. Aplico filtros para limpiar o seleccionar datos.
     #print(tabla.head(20)) #primeros N registros
